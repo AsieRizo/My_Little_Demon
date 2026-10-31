@@ -16,7 +16,7 @@
 - The main and original mechanic is a shadow of the player that imitates its moves and can kill it if it touches it.
 - There are 6 short levels available.
 - Narrative based on dialogues inserted between the levels.
-- 👾 🎨 32 bits pixel art style.
+- 👾 🎨 16 bits pixel art style.
 - 🎮 Accessibility options are available, such as control personalization.
 - 🎃 The pumpkins spread around the levels guide your jumps.
 - ⌚The estimated duration is 5 to 10 minutes, depending on the player's skills.
